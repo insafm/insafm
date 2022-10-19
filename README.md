@@ -11,5 +11,5 @@
 
 - 👨‍💻 Python - Django Developer.
 - 📚 Follow-up on the most recent changes in web development. 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas - build a enterprise level open source product.
-- ⚡ Fun fact: Very happy to find bugs in cyber-space and always trying to break the security to make the system safe.
+- 💪🏼 Future Goals: Learn more technologies - Build an enterprise-level open source product.
+- ⚡ Fun fact: Very happy to find bugs and trying to break the security to make the aplication safe.
