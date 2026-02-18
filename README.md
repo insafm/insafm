@@ -54,8 +54,6 @@ class MohammedInsaf:
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 <table>
