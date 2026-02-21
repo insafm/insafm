@@ -80,6 +80,7 @@ class MohammedInsaf:
 |---------------------------|-------------------------------------------------------------------------------------------------|---------------------------------------------|
 | **Promptlytic**           | AI-powered dashboard builder for generating data visualizations from plain English descriptions  | [Live Demo](https://promptlytic.insafweb.in)        |
 | **Instagram AI Companion**| AI companion Instagram page with automated engagement and Malayalam language support            | [Live Demo](https://fidafathimaai.insafweb.in)                              |
+| **Femini**                | Femini provides free & unlimited Gemini AI API that automates the Gemini web app (gemini.google.com) via browser automation. | [Source Code](https://github.com/insafm/femini)                            |
 | **WebInspectra**          | Python package for detecting web technologies used by a given URL                               | [PyPI](https://pypi.org/project/WebInspectra/) &#x2022; [Source Code](https://github.com/insafm/webinspectra)         |
 | **Dockerized Django**     | Pre-configured Docker images with Docker Compose for Django                                     | [Source Code](https://github.com/insafm/dockerized-django)                            |
 | **AKNM GPTC Website**     | Dynamic, responsive website for an AICTE-approved polytechnic college in Kerala                 | [Demo](https://web.archive.org/web/20250202094913/http://gptcthirurangadi.in/)                              |
